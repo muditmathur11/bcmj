@@ -14,3 +14,7 @@ county demographic data: mudit
   
   
   -merge eventually?
+  
+  more charts:
+  -# of counties that switched parties
+  -average % change in counties that switched
